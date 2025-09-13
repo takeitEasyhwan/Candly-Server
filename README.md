@@ -6,7 +6,7 @@
 <img width="1141" height="643" alt="image" src="https://github.com/user-attachments/assets/36e98975-c147-4b9e-9be8-267af8ce7e29" />
 
 ### 개발 기간
-2025.07.03. ~ 2025.07.29. (1개월)
+2025.07.03. ~ 2025.07.29. (1개월) 
 
 ### 팀 소개
 | ![여은동](http://github.com/sillonjeu.png)               | ![곽예경](https://github.com/kyun9-cloud.png)            | ![이지환](https://github.com/takeitEasyhwan.png)               | ![전은서](https://github.com/EunseoJun.png)                   | ![지민선](https://github.com/jiminseon.png) |
