@@ -9,11 +9,11 @@
 2025.07.01. ~ 2025.08.01. (1개월) 
 
 ### 팀 소개
-| ![여은동](http://github.com/sillonjeu.png)               | ![곽예경](https://github.com/kyun9-cloud.png)            | ![이지환](https://github.com/takeitEasyhwan.png)               | ![전은서](https://github.com/EunseoJun.png)                   | ![지민선](https://github.com/jiminseon.png) |
+| ![여은동](http://github.com/sillonjeu.png)               | ![곽예경](https://github.com/kyun9-cloud.png)            | ![이지환](https://github.com/takeitEasyhwan.png)               | ![지민선](https://github.com/jiminseon.png) |
 |:----------------------:|:-------------------:|:------------------------:|:---------------------------:|:---------------------------:|
-| **여은동**               | **곽예경**            | **이지환**               | **전은서**                   | **지민선**            |
-| [@sillonjeu](http://github.com/sillonjeu)               | [@kyun9-cloud](http://github.com/kyun9-cloud)            | [@Jihwan Lee](http://github.com/takeitEasyhwan)               | [@Eunseo Jun](http://github.com/EunseoJun) |   [@jiminseon](http://github.com/jiminseon)                 |
-| FE / BE / Infra    | FE / BE            | FE / BE            | FE / BE                  |FE / BE|
+| **여은동**               | **곽예경**            | **이지환**               | **지민선**            |
+| [@sillonjeu](http://github.com/sillonjeu)               | [@kyun9-cloud](http://github.com/kyun9-cloud)            | [@Jihwan Lee](http://github.com/takeitEasyhwan)               |   [@jiminseon](http://github.com/jiminseon)                 |
+| FE / BE / Infra    | FE / BE            | FE / BE            |FE / BE|
 |  로그인/회원가입<br>재무제표 제작<br>CI/CD | 디자인<br>차트 페이지 제작<br>예측 시스템 구현 | 재무제표 크롤링<br>재무제표 페이지 제작<br>마이페이지 제작|연습문제 추출<br>뉴스 크롤링<br>보조지표 제작<br>채점 기능 구현 | 튜토리얼<br>보유주식 연동<br>메인/랭킹 페이지 제작<br>연습문제 검색
 
 ## 주요 개발 내용
