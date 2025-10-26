@@ -9,8 +9,8 @@
 2025.07.01. ~ 2025.08.01. (1개월) 
 
 ### 팀 소개
-| ![여은동](http://github.com/sillonjeu.png)               | ![곽예경](https://github.com/kyun9-cloud.png)            | ![이지환](https://github.com/takeitEasyhwan.png)               | ![지민선](https://github.com/jiminseon.png) |
-|:----------------------:|:-------------------:|:------------------------:|:---------------------------:|:---------------------------:|
+| ![여은동](http://github.com/sillonjeu.png)| ![곽예경](https://github.com/kyun9-cloud.png)| ![이지환](https://github.com/takeitEasyhwan.png)| ![지민선](https://github.com/jiminseon.png) |
+|:----------------------:|:-------------------:|:------------------------:|:---------------------------:|
 | **여은동**               | **곽예경**            | **이지환**               | **지민선**            |
 | [@sillonjeu](http://github.com/sillonjeu)               | [@kyun9-cloud](http://github.com/kyun9-cloud)            | [@Jihwan Lee](http://github.com/takeitEasyhwan)               |   [@jiminseon](http://github.com/jiminseon)                 |
 | FE / BE / Infra    | FE / BE            | FE / BE            |FE / BE|
